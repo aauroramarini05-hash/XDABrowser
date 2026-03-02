@@ -5,7 +5,7 @@
 
     <application
         android:label="XDABrowser"
-        android:theme="@style/Theme.AppCompat.Dark.NoActionBar">
+        android:theme="@style/Theme.XDABrowser">
 
         <activity
             android:name=".MainActivity"
